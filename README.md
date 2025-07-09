@@ -13,7 +13,8 @@
 
 |차은빈 (디자이너)|전아영 (기획자)|김영원 (개발자)|
 |------|---|---|
-|테스트1|테스트2|테스트3|
+|![1740940224856-13](https://github.com/user-attachments/assets/e51c9033-08b7-40dc-90b6-129beca3d5cb)
+|테스트2|테스트3|
 
 ## 1. 개발 환경
 - Front : HTML, SCSS, JavaScript ES6+, Swiper.js, Fullpage.js
