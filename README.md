@@ -29,14 +29,23 @@
 - Feat 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 각 브랜치를 삭제해주었습니다.
 ## 3. 프로젝트 구조
 ├── README.md
+
 ├── .eslintrc.js
+
 ├── .gitignore
+
 ├── .prettierrc.json
+
 ├── package-lock.json
+
 ├── package.json
+
 │
+
 ├── public
+
 │    └── index.html
+
 └── src
      ├── App.jsx
      ├── index.jsx
