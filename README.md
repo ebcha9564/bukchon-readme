@@ -11,7 +11,7 @@
 
 ## 팀원 구성
 
-|차은빈 (디자이너)|전아영 (기획자)|김영원 (개발자)|
+|차은빈 (디자이너)|김영원 (개발자)|전아영 (기획자)|
 |------|---|---|
 |![1740940224856-13](https://github.com/user-attachments/assets/e51c9033-08b7-40dc-90b6-129beca3d5cb) | |![image](https://github.com/user-attachments/assets/987b11e6-751c-4f53-89ee-943633bd3b55) | |테스트3|
 
