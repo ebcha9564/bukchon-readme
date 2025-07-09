@@ -30,15 +30,15 @@
 ## 3. 프로젝트 구조
 ├── README.md
 
-├── .eslintrc.js
+├── index.html
 
-├── .gitignore
+├── history.html
 
-├── .prettierrc.json
+├── dining.html
 
-├── package-lock.json
+├── public.html
 
-├── package.json
+├── visit.html
 
 │
 
