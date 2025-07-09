@@ -47,60 +47,115 @@
 │    └── index.html
 
 └── src
+
      ├── App.jsx
+     
      ├── index.jsx
+     
      ├── api
+     
      │     └── mandarinAPI.js
+     
      ├── asset
+     
      │     ├── fonts
+     
      │     ├── css_sprites.png
+     
      │     ├── logo-404.svg
+     
      │     └── logo-home.svg
+     
      │          .
+     
      │          .
+     
      │          .
+     
      ├── atoms
+     
      │     ├── LoginData.js
+     
      │     └── LoginState.js
+     
      ├── common
+     
      │     ├── alert
+     
      │     │     ├── Alert.jsx
+     
      │     │     └── Alert.Style.jsx
+     
      │     ├── button
+     
      │     ├── comment
+     
      │     ├── inputBox
+     
      │     ├── post
+     
      │     ├── postModal
+     
      │     ├── product
+     
      │     ├── tabMenu
+     
      │     ├── topBanner
+     
      │     └── userBanner
+     
      ├── pages
+     
      │     ├── addProduct
+     
      │     │     ├── AddProduct.jsx
+     
      │     │     └── AddProduct.Style.jsx
+     
      │     ├── chatList
+     
      │     ├── chatRoom
+     
      │     ├── emailLogin
+     
      │     ├── followerList
+     
      │     ├── followingList
+     
      │     ├── home
+     
      │     ├── join
+     
      │     ├── page404
+     
      │     ├── postDetail
+     
      │     ├── postEdit
+     
      │     ├── postUpload
+     
      │     ├── productEdit
+     
      │     ├── profile
+     
      │     ├── profileEdit
+     
      │     ├── profileSetting
+     
      │     ├── search
+     
      │     ├── snsLogin
+     
      │     └── splash
+     
      ├── routes
+     
      │     ├── privateRoutes.jsx
+     
      │     └── privateRoutesRev.jsx  
+     
      └── styles
+     
            └── Globalstyled.jsx
 ## 4. 역할 분담
 
