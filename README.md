@@ -42,9 +42,23 @@
 
 │
 
-├── public
+├── assets
 
-│    └── index.html
+│    └── css
+
+│    └── images
+
+│    └── js
+
+      │    └── history.js
+
+      │    └── main.js
+
+      │    └── modal.js
+
+
+│    └── scss
+
 
 └── src
 
