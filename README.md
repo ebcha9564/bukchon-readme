@@ -12,9 +12,16 @@
 ## 팀원 구성
 
 ## 1. 개발 환경
+- Front : HTML, SCSS, JavaScript ES6+, Swiper.js, Fullpage.js
+- 버전 및 이슈관리 : Github, Github Project
+- 협업 툴 : Notion, Github Wiki
+- 서비스 배포 환경 : Netlify
+- 디자인 : Figma
 
 ## 2. 채택한 개발 기술과 브랜치 전략
-
+### Css Preprocessor:
+- SCSS:
+- SCSS(Sass)는 CSS의 확장 언어로, 더 구조적이고 효율적인 스타일링 작업을 가능하게 해줍니다. 이번 프로젝트에서는 유지보수성과 재사용성을 고려해 SCSS를 채택했습니다. 변수, 중첩(Nesting), 믹스인(Mixin), 분리된 파일 구조(Partial & Import)를 활용함으로써 복잡한 스타일 코드도 논리적으로 정리할 수 있었고, 동일한 스타일 속성을 반복적으로 작성하는 시간을 줄일 수 있었습니다. 특히 반응형 웹 구현 시 미디어 쿼리를 컴포넌트별로 정리하고, 색상이나 간격 같은 디자인 토큰을 변수로 관리할 수 있어 협업과 유지보수에 큰 이점을 얻을 수 있었습니다.
 ## 3. 프로젝트 구조
 
 ## 4. 역할 분담
